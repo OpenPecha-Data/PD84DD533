@@ -1,0 +1,23 @@
+id: PD84DD533
+initial_creation_type: input
+source_metadata:
+  title: Lodi Gyari Rinpoche
+  language: fr
+  description: Texts by or related to Lodi Gyari Rinpoche, also known as Pema Lodrö
+    Gyaltsen (padma blo gros rgyal mtshan, 1949–2018), who was the special envoy to
+    His Holiness the Dalai Lama in Washington DC.
+  volume:
+    98538b5c234942cc9305aba5fbd95293:
+      title: Prayer to His Holiness the Dalai Lama
+      parent: Prayers
+    2bd276db9e8047678cc08f3d1043051a:
+      title: Long Life Prayer for Lodi Gyari Rinpoche
+      parent: Long Life Prayers
+    ae94fe0dfafc4faba68b3d32aa859be3:
+      title: A Plaintive Prayer to Guru Rinpoche
+      parent: Guru Rinpoche Prayers
+    24d26d32437c4fcdb88ad1405ee87bf4:
+      title: Offering Prayer to Changshönma, Protectress Riding upon a Wolf
+      parent: Dharma Protectors
+created_at: '2022-03-01T00:39:16.900163'
+last_modified_at: '2022-03-01T00:39:16.900165'
